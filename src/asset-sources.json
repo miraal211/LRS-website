@@ -1,0 +1,270 @@
+[
+  {
+    "file": "vendor/gsap.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js",
+    "bytes": 72435
+  },
+  {
+    "file": "vendor/ScrollTrigger.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/ScrollTrigger.min.js",
+    "bytes": 44157
+  },
+  {
+    "file": "vendor/SplitText.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/SplitText.min.js",
+    "bytes": 7247
+  },
+  {
+    "file": "vendor/Flip.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/Flip.min.js",
+    "bytes": 25013
+  },
+  {
+    "file": "vendor/DrawSVGPlugin.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/DrawSVGPlugin.min.js",
+    "bytes": 4351
+  },
+  {
+    "file": "vendor/Observer.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/Observer.min.js",
+    "bytes": 9985
+  },
+  {
+    "file": "vendor/suncalc.js",
+    "url": "https://cdn.jsdelivr.net/npm/suncalc@1.9.0/suncalc.js",
+    "bytes": 9116
+  },
+  {
+    "file": "vendor/SUNCALC-LICENSE.txt",
+    "url": "https://cdn.jsdelivr.net/npm/suncalc@1.9.0/LICENSE",
+    "bytes": 1321
+  },
+  {
+    "file": "media/lrs-logo.png",
+    "url": "https://lrs.lums.edu.pk/img/logoSimple.png",
+    "bytes": 50498
+  },
+  {
+    "file": "media/campus-film.mp4",
+    "url": "https://lrs.lums.edu.pk/img/bg.mp4",
+    "bytes": 10750343
+  },
+  {
+    "file": "media/community-1.jpg",
+    "url": "https://lrs.lums.edu.pk/img/gallery/1.jpg",
+    "bytes": 191424
+  },
+  {
+    "file": "media/community-2.jpg",
+    "url": "https://lrs.lums.edu.pk/img/gallery/2.jpg",
+    "bytes": 150845
+  },
+  {
+    "file": "media/community-3.jpg",
+    "url": "https://lrs.lums.edu.pk/img/gallery/3.jpg",
+    "bytes": 363758
+  },
+  {
+    "file": "media/community-5.jpg",
+    "url": "https://lrs.lums.edu.pk/img/gallery/5.jpg",
+    "bytes": 775605
+  },
+  {
+    "file": "media/community-7.jpg",
+    "url": "https://lrs.lums.edu.pk/img/gallery/7.jpg",
+    "bytes": 167645
+  },
+  {
+    "file": "media/community-9.jpg",
+    "url": "https://lrs.lums.edu.pk/img/gallery/9.jpg",
+    "bytes": 122654
+  },
+  {
+    "file": "media/community-11.jpg",
+    "url": "https://lrs.lums.edu.pk/img/gallery/11.jpg",
+    "bytes": 701848
+  },
+  {
+    "file": "media/partner-1.jpg",
+    "url": "https://lrs.lums.edu.pk/img/collab/1.jpg",
+    "bytes": 7589
+  },
+  {
+    "file": "media/partner-2.jpg",
+    "url": "https://lrs.lums.edu.pk/img/collab/2.jpg",
+    "bytes": 24105
+  },
+  {
+    "file": "media/partner-3.jpg",
+    "url": "https://lrs.lums.edu.pk/img/collab/3.jpg",
+    "bytes": 24907
+  },
+  {
+    "file": "media/partner-4.jpg",
+    "url": "https://lrs.lums.edu.pk/img/collab/4.jpg",
+    "bytes": 115661
+  },
+  {
+    "file": "media/partner-5.jpg",
+    "url": "https://lrs.lums.edu.pk/img/collab/5.jpg",
+    "bytes": 32328
+  },
+  {
+    "file": "media/partner-6.jpg",
+    "url": "https://lrs.lums.edu.pk/img/collab/6.jpg",
+    "bytes": 9225
+  },
+  {
+    "file": "media/stylo.png",
+    "url": "https://lrs.lums.edu.pk/img/sponsors/stylo.png",
+    "bytes": 35523
+  },
+  {
+    "file": "media/tcr.png",
+    "url": "https://lrs.lums.edu.pk/img/sponsors/tcr.png",
+    "bytes": 69048
+  },
+  {
+    "file": "media/treet.png",
+    "url": "https://lrs.lums.edu.pk/img/sponsors/treet.png",
+    "bytes": 32970
+  },
+  {
+    "file": "media/lums-mosque.jpg",
+    "url": "https://lrs.lums.edu.pk/img/lums_masjid.jpg",
+    "bytes": 28071
+  },
+  {
+    "file": "media/hero-poster.jpg",
+    "derivedFrom": "media/campus-film.mp4",
+    "method": "Frame extracted at 3 seconds with ffmpeg"
+  },
+  {
+    "file": "fonts/font-0.ttf",
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jDOjw.ttf"
+  },
+  {
+    "file": "fonts/font-1.ttf",
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86GnM.ttf"
+  },
+  {
+    "file": "fonts/font-2.ttf",
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06GnM.ttf"
+  },
+  {
+    "file": "fonts/font-3.ttf",
+    "url": "https://fonts.gstatic.com/s/manrope/v23/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf"
+  },
+  {
+    "file": "fonts/font-4.ttf",
+    "url": "https://fonts.gstatic.com/s/manrope/v23/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf"
+  },
+  {
+    "file": "fonts/font-5.ttf",
+    "url": "https://fonts.gstatic.com/s/manrope/v23/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F.ttf"
+  },
+  {
+    "file": "fonts/font-6.ttf",
+    "url": "https://fonts.gstatic.com/s/manrope/v23/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf"
+  },
+  {
+    "file": "vendor/MotionPathPlugin.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/MotionPathPlugin.min.js",
+    "bytes": 21712
+  },
+  {
+    "file": "vendor/CustomEase.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/CustomEase.min.js",
+    "bytes": 7069
+  },
+  {
+    "file": "vendor/ScrollToPlugin.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/ScrollToPlugin.min.js",
+    "bytes": 4059
+  },
+  {
+    "file": "vendor/Draggable.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/Draggable.min.js",
+    "bytes": 35497
+  },
+  {
+    "file": "media/highlight-good.jpg",
+    "url": "https://lrs.lums.edu.pk/img/Events/2025%20to%202026/The%20Good%20Place/front.jpg",
+    "bytes": 250684
+  },
+  {
+    "file": "media/highlight-yusuf.jpg",
+    "url": "https://lrs.lums.edu.pk/img/Events/2025%20to%202026/Surah%20Yusuf%20Intensive/front.jpg",
+    "bytes": 193749
+  },
+  {
+    "file": "media/highlight-thiago.jpg",
+    "url": "https://lrs.lums.edu.pk/img/Events/2025%20to%202026/Thiago%20Avilas/front.jpg",
+    "bytes": 216714
+  },
+  {
+    "file": "media/palestine-mushtaq.jpg",
+    "url": "https://lrs.lums.edu.pk/img/Events/2025%20to%202026/Senator%20Mushtaq/front.jpg",
+    "bytes": 191154
+  },
+  {
+    "file": "media/palestine-2024.jpg",
+    "url": "https://lrs.lums.edu.pk/img/Events/2024%20to%202025/PalestineWeek/front.jpg",
+    "bytes": 195874
+  },
+  {
+    "file": "media/palestine-2023.jpg",
+    "url": "https://lrs.lums.edu.pk/img/Events/2023%20to%202024/Palestine1/front.jpg",
+    "bytes": 210361
+  },
+  {
+    "file": "fonts/experience-0.ttf",
+    "url": "https://fonts.gstatic.com/s/amiri/v30/J7aRnpd8CGxBHqUp.ttf",
+    "bytes": 385840
+  },
+  {
+    "file": "fonts/experience-1.ttf",
+    "url": "https://fonts.gstatic.com/s/bodonimoda/v28/aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZGsN4sQ.ttf",
+    "bytes": 47708
+  },
+  {
+    "file": "fonts/experience-2.ttf",
+    "url": "https://fonts.gstatic.com/s/bodonimoda/v28/aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oXzawIA.ttf",
+    "bytes": 44844
+  },
+  {
+    "file": "fonts/experience-3.ttf",
+    "url": "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_04uT6k.ttf",
+    "bytes": 52368
+  },
+  {
+    "file": "fonts/experience-4.ttf",
+    "url": "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_3mvj6k.ttf",
+    "bytes": 52760
+  },
+  {
+    "file": "fonts/experience-5.ttf",
+    "url": "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_3fvj6k.ttf",
+    "bytes": 52732
+  },
+  {
+    "file": "fonts/experience-6.ttf",
+    "url": "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_24vj6k.ttf",
+    "bytes": 52868
+  },
+  {
+    "file": "fonts/syne-OFL.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/syne/OFL.txt",
+    "bytes": 4402
+  },
+  {
+    "file": "fonts/bodonimoda-OFL.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/bodonimoda/OFL.txt",
+    "bytes": 4400
+  },
+  {
+    "file": "fonts/amiri-OFL.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/OFL.txt",
+    "bytes": 4389
+  }
+]

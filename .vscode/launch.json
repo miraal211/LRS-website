@@ -1,0 +1,36 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "LRS - Open in Chrome (no server needed)",
+      "type": "chrome",
+      "request": "launch",
+      "file": "${workspaceFolder}/site/index.html",
+      "webRoot": "${workspaceFolder}/site"
+    },
+    {
+      "name": "LRS - Open in Edge (no server needed)",
+      "type": "msedge",
+      "request": "launch",
+      "file": "${workspaceFolder}/site/index.html",
+      "webRoot": "${workspaceFolder}/site"
+    },
+    {
+      "name": "LRS - Start localhost + Chrome (requires Node.js)",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/serve.mjs",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "outputCapture": "std",
+      "skipFiles": ["<node_internals>/**"],
+      "serverReadyAction": {
+        "pattern": "LRS ready at (http://127\\.0\\.0\\.1:[0-9]+)",
+        "uriFormat": "%s",
+        "action": "debugWithChrome",
+        "webRoot": "${workspaceFolder}/site",
+        "killOnServerStop": true
+      }
+    }
+  ]
+}

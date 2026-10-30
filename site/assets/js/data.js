@@ -1,0 +1,326 @@
+/* Generated from src/content.json. Edit the source and rebuild. */
+window.LRS_DATA = {
+  "site": {
+    "name": "LUMS Religious Society",
+    "email": "faith@lums.edu.pk",
+    "timezone": "Asia/Karachi",
+    "original": "https://lrs.lums.edu.pk/index.html"
+  },
+  "events": [
+    {
+      "slug": "sacred-retreat-2",
+      "title": "The Sacred Retreat 2.0",
+      "subtitle": "A night to return.",
+      "description": "A quiet night, good company, and time to reconnect with Allah. Join LRS for a night of Nafl Aitekaf, whether you attended before or are joining for the first time.",
+      "date": "2026-10-29",
+      "endDate": "2026-10-30",
+      "time": "Isha until sunrise",
+      "start": null,
+      "end": null,
+      "category": "Retreat",
+      "audience": "both",
+      "venue": "Mosque · meeting points to be confirmed",
+      "venueGroup": "mosque",
+      "speaker": "",
+      "image": null,
+      "theme": "night",
+      "registration": "https://sacredretreat.netlify.app",
+      "notes": [
+        "Registration is mandatory.",
+        "Dinner will be served.",
+        "Separate arrangements for brothers and sisters.",
+        "Confirm your meeting point and the Isha time with the organisers."
+      ]
+    },
+    {
+      "slug": "why-al-aqsa-still-calls-us",
+      "title": "Why Al Aqsa Still Calls Us",
+      "subtitle": "Sada-e-Haq · A Call for Solidarity · Day 2",
+      "description": "An invitation to reflect on the place of Al Aqsa in our faith and the meaning of solidarity with Palestine.",
+      "date": "2026-10-27",
+      "endDate": "2026-10-27",
+      "time": "6:30 PM",
+      "start": "18:30",
+      "end": null,
+      "category": "Lecture",
+      "audience": "unconfirmed",
+      "venue": "HSS SS Aud",
+      "venueGroup": "campus",
+      "speaker": "Ustaz Abdul Rehman Siddiqui & Mufti Atta-ur-Rehman · Al-Burhan Institute",
+      "image": null,
+      "theme": "olive",
+      "registration": null,
+      "notes": [
+        "Audience and access arrangements were not specified in the supplied announcement.",
+        "This is an archived announcement. A recording has not been supplied."
+      ],
+      "body": [
+        "Al Aqsa was the first direction we ever turned to in prayer, and it’s where the Prophet (SAW) stood and led every prophet before him on the night of Isra. Today it’s under occupation, and children in Gaza are still memorizing the Quran in the middle of the rubble. Most of us grew up knowing it matters, but few of us have ever sat down and asked why it still calls us after all this time.",
+        "LUMS Religious Society invites you to Sada-e-Haq: A Call for Solidarity. Day 2: Why Al Aqsa Still Calls Us, with Ustaz Abdul Rehman Siddiqui and Mufti Atta-ur-Rehman from Al-Burhan Institute."
+      ]
+    },
+    {
+      "slug": "friday-morning-with-chai",
+      "title": "Friday Morning with Chai",
+      "subtitle": "A halaqah, good conversations, and snacks.",
+      "description": "A relaxed gathering on the female side of the LUMS Masjid, with space for conversation, a halaqah, and a cup of chai.",
+      "date": "2026-10-23",
+      "endDate": "2026-10-23",
+      "time": "12:00 PM onwards",
+      "start": "12:00",
+      "end": null,
+      "category": "Gathering",
+      "audience": "sisters",
+      "venue": "LUMS Masjid · female side",
+      "venueGroup": "female",
+      "speaker": "",
+      "image": null,
+      "theme": "sage",
+      "registration": null,
+      "notes": [
+        "This poster announces the 23 October gathering only; a weekly schedule has not been confirmed."
+      ]
+    },
+    {
+      "slug": "ultimate-trust-fall",
+      "title": "The Ultimate Trust Fall",
+      "subtitle": "Grounding your heart in Tawakkul.",
+      "description": "Explore what it means to trust Allah when life feels uncertain, and reflect on finding inner peace through Tawakkul.",
+      "date": "2026-10-15",
+      "endDate": "2026-10-15",
+      "time": "Post-Maghrib · 6:00 PM onwards",
+      "start": "18:00",
+      "end": null,
+      "category": "Halaqa",
+      "audience": "unconfirmed",
+      "venue": "Masjid inner room · exact location to confirm",
+      "venueGroup": "mosque",
+      "speaker": "Zoha Malik · Founder of Tasleem Institute; LUMS & Alimiyyah graduate",
+      "image": null,
+      "theme": "sand",
+      "registration": null,
+      "notes": [
+        "The announcement does not identify the exact masjid space or audience.",
+        "The time above is from the original event announcement."
+      ],
+      "body": [
+        "What does it truly mean to put your complete trust in Allah when life feels uncertain? Join us for an inspiring session with Ustd. Zoha Malik as we explore how to anchor our hearts in Tawakkul. Come learn how to find inner peace and let go of anxiety by truly handing your worries over to Him (swt).",
+        "Bring your friends and see you all there, Inshallah!"
+      ]
+    }
+  ],
+  "programmes": [
+    {
+      "slug": "exploring-surah-hadid",
+      "title": "Exploring Surah Hadid",
+      "subtitle": "A weekly space to read, understand, and reflect.",
+      "description": "An in-depth journey through Surah Al-Hadid: faith, the fleeting nature of dunya, and the heart’s journey back to Allah. Returning participants and first-time attendees are welcome.",
+      "audience": "sisters",
+      "schedule": "Mondays · post-Asr",
+      "timeNote": "The supplied poster says 4:45 PM onwards. Confirm the current time and whether a session is running before attending.",
+      "venue": "LUMS Masjid · female side",
+      "image": null,
+      "nextConfirmedDate": null
+    }
+  ],
+  "prayers": {
+    "timezone": "Asia/Karachi",
+    "source": "https://lrs.lums.edu.pk/namazTimings.html",
+    "verifiedBy": "",
+    "schedule": [],
+    "jummahNote": "Published Jumu‘ah jama‘at: 1:30 PM. Confirm khutbah and any special arrangements with the mosque.",
+    "publishedRows": [
+      {
+        "month": 1,
+        "day": 1,
+        "fajr": "6:20",
+        "asr": "4:00",
+        "isha": "7:15"
+      },
+      {
+        "month": 1,
+        "day": 16,
+        "fajr": "6:20",
+        "asr": "4:15",
+        "isha": "7:15"
+      },
+      {
+        "month": 2,
+        "day": 1,
+        "fajr": "6:10",
+        "asr": "4:30",
+        "isha": "7:30"
+      },
+      {
+        "month": 2,
+        "day": 16,
+        "fajr": "6:00",
+        "asr": "4:45",
+        "isha": "7:45"
+      },
+      {
+        "month": 3,
+        "day": 1,
+        "fajr": "5:40",
+        "asr": "4:45",
+        "isha": "8:00"
+      },
+      {
+        "month": 3,
+        "day": 16,
+        "fajr": "5:20",
+        "asr": "5:00",
+        "isha": "8:00"
+      },
+      {
+        "month": 4,
+        "day": 1,
+        "fajr": "5:00",
+        "asr": "5:00",
+        "isha": "8:15"
+      },
+      {
+        "month": 4,
+        "day": 16,
+        "fajr": "4:40",
+        "asr": "5:15",
+        "isha": "8:30"
+      },
+      {
+        "month": 5,
+        "day": 1,
+        "fajr": "4:30",
+        "asr": "5:15",
+        "isha": "8:45"
+      },
+      {
+        "month": 5,
+        "day": 16,
+        "fajr": "4:20",
+        "asr": "5:15",
+        "isha": "9:00"
+      },
+      {
+        "month": 6,
+        "day": 1,
+        "fajr": "4:20",
+        "asr": "5:30",
+        "isha": "9:15"
+      },
+      {
+        "month": 6,
+        "day": 16,
+        "fajr": "4:20",
+        "asr": "5:30",
+        "isha": "9:15"
+      },
+      {
+        "month": 7,
+        "day": 1,
+        "fajr": "4:30",
+        "asr": "5:30",
+        "isha": "9:15"
+      },
+      {
+        "month": 7,
+        "day": 16,
+        "fajr": "4:30",
+        "asr": "5:30",
+        "isha": "9:00"
+      },
+      {
+        "month": 8,
+        "day": 1,
+        "fajr": "4:40",
+        "asr": "5:15",
+        "isha": "9:00"
+      },
+      {
+        "month": 8,
+        "day": 16,
+        "fajr": "4:50",
+        "asr": "5:15",
+        "isha": "8:30"
+      },
+      {
+        "month": 9,
+        "day": 1,
+        "fajr": "5:00",
+        "asr": "5:00",
+        "isha": "8:15"
+      },
+      {
+        "month": 9,
+        "day": 16,
+        "fajr": "5:10",
+        "asr": "4:45",
+        "isha": "7:45"
+      },
+      {
+        "month": 10,
+        "day": 1,
+        "fajr": "5:20",
+        "asr": "4:30",
+        "isha": "7:30"
+      },
+      {
+        "month": 10,
+        "day": 16,
+        "fajr": "5:30",
+        "asr": "4:15",
+        "isha": "7:15"
+      },
+      {
+        "month": 11,
+        "day": 1,
+        "fajr": "5:40",
+        "asr": "4:00",
+        "isha": "7:00"
+      },
+      {
+        "month": 11,
+        "day": 16,
+        "fajr": "6:00",
+        "asr": "3:45",
+        "isha": "7:00"
+      },
+      {
+        "month": 12,
+        "day": 1,
+        "fajr": "6:10",
+        "asr": "3:45",
+        "isha": "7:00"
+      },
+      {
+        "month": 12,
+        "day": 16,
+        "fajr": "6:20",
+        "asr": "4:00",
+        "isha": "7:00"
+      }
+    ],
+    "latitude": 31.4695325,
+    "longitude": 74.4093449,
+    "snapshotDate": "2026-10-30",
+    "zuhr": "13:30",
+    "jummah": "13:30"
+  },
+  "verses": [
+    {
+      "arabic": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "translation": "So, surely with hardship comes ease.",
+      "surah": "Ash-Sharh",
+      "reference": "94:5",
+      "source": "https://quran.com/94/5",
+      "translator": "Dr. Mustafa Khattab, The Clear Quran"
+    },
+    {
+      "arabic": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًۭا",
+      "translation": "Surely with ˹that˺ hardship comes ˹more˺ ease.",
+      "surah": "Ash-Sharh",
+      "reference": "94:6",
+      "source": "https://quran.com/94/6",
+      "translator": "Dr. Mustafa Khattab, The Clear Quran"
+    }
+  ]
+};
